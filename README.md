@@ -7,9 +7,3 @@ Kalkulator ini adalah aplikasi sederhana yang dibangun menggunakan Golang. Proye
 - Pengurangan
 - Perkalian
 - Pembagian
-
-## Instalasi
-
-1. Clone repository ini ke dalam direktori lokal:
-   ```bash
-   git clone https://github.com/FahmiHeykal/kalkulator.git
