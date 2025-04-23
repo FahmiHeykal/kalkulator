@@ -10,7 +10,7 @@ function appendNumber(num) {
 
 function appendOperator(op) {
   const lastChar = display.innerText.slice(-1);
-  if ('+-*/'.includes(lastChar)) return; // prevent duplicate ops
+  if ('+-*/'.includes(lastChar)) return;
   display.innerText += op;
 }
 
